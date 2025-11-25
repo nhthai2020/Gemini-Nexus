@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Nexus",
+  "description": "An advanced, developer-grade Gemini playground featuring multimodal chat, search grounding, and dynamic model selection with a production-ready UI.",
+  "requestFramePermissions": []
+}
